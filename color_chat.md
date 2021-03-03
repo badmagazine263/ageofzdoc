@@ -32,8 +32,11 @@ To write with a color that has a bit of Red, more Green, and even more Blue, you
 ## Styles
 
 Bold text is written as: [b]Bold text[/b]
+
 Italic text is written as: [i]Italic text[/i]
+
 Underline text is written as: [u]Underline text[/u]
+
 Strikethrough text is written as: [s]Strikethrough text[/s]
 
 Combinations are possible, for example: [b][i]Bold italic text[/i][/b].
