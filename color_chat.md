@@ -7,8 +7,11 @@ Colors are written as hexadecimal RGBA sequences between square brackets:
 [rrggbbaa]
 
 rr = two hexadecimal digits for the intensity of the color Red
+
 gg = two hexadecimal digits for the intensity of the color Green
+
 bb = two hexadecimal digits for the intensity of the color Blue
+
 aa = two hexadecimal digits for the Alpha or opacity of the color
 
 Hexadecimal values for colors go from 00 to FF in hexadecimal, or from 0 to 256 decimal.
